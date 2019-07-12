@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小白妹妹写代码
-subtitle: 一个废话很多的程序媛
-description: JavaScript是世界上第二好的语言😏
+title: C小喵的技术专栏
+subtitle: 迷恋编程的小学生
+description: 勇往直前，知难而上
 author: HiiTea
 language: zh-CN
-timezone: Asia/Shanghai
-favicon: https://assets-cdn.github.com/favicon.ico
+timezone: 
+favicon: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://sabrinaluo.github.io/tech
+url: http://momonorothy.github.io/tech
 root: /tech/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -70,7 +70,7 @@ theme: replica
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:sabrinaluo/tech.git
+  repo: git@github.com:momonorthy/tech.git
   branch: gh-pages
 
 # Google Analytics
@@ -90,13 +90,13 @@ gcs: 015579750388200492852:dnpv83myu4a
 baidutongji: d8749b933af749e1e5ec931bb403628f
 disqus: hiitea-tech
 
-location: Hong Kong, China
-email: luohaojing[at]gmail.com
+location: Qu Zhou, China
+email: northy360[at]126.com
 
 avatar: https://avatars2.githubusercontent.com/u/5300359?v=4&s=460
 social:
-  github: https://github.com/sabrinaluo
-  weibo: http://weibo.com/206663121
+  github: https://github.com/momonorthy
+  weibo: 
   linkedin:
 
 flagcounter_href: https://info.flagcounter.com/mx4Y
