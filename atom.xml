@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小白妹妹写代码</title>
+  <title>C小喵的技术专栏</title>
   <icon>https://www.gravatar.com/avatar/33db386efb13607178f855fd69e73158</icon>
-  <subtitle>一个废话很多的程序媛</subtitle>
+  <subtitle>迷恋编程的小学生</subtitle>
   <link href="/tech/atom.xml" rel="self"/>
   
-  <link href="https://sabrinaluo.github.io/tech/"/>
+  <link href="https://github.com/momonorthy/tech"/>
   <updated>2019-02-27T14:42:20.734Z</updated>
-  <id>https://sabrinaluo.github.io/tech/</id>
+  <id>https://momonorthy.github.io/tech/</id>
   
   <author>
     <name>HiiTea</name>
